@@ -1,0 +1,502 @@
+restaurant_id,name,city,location,cuisines,rating,votes,online_order,table_booking,cost_for_two,rating_category
+1001,Momo Magic - Connaught Place,Delhi,Connaught Place,"Italian, BBQ",3.4,903,Yes,Yes,1500,Good
+1002,Tandoori Nights - Dwarka,Delhi,Dwarka,South Indian,4.3,273,Yes,Yes,1500,Excellent
+1003,The Coffee House - Bandra,Mumbai,Bandra,"Thai, Cafe, Continental",2.9,50,Yes,No,2000,Average
+1004,Kebab Junction - Banjara Hills,Hyderabad,Banjara Hills,Thai,2.6,603,No,No,600,Average
+1005,Kebab Junction - Koramangala,Bangalore,Koramangala,"South Indian, BBQ",3.9,369,No,Yes,800,Good
+1006,Brew & Bite - Anna Nagar,Chennai,Anna Nagar,Thai,2.5,1051,No,Yes,1000,Average
+1007,Grill Master - Karol Bagh,Delhi,Karol Bagh,"Desserts, Street Food, Fast Food",4.5,71,Yes,Yes,200,Excellent
+1008,The Curry Leaf - Hinjewadi,Pune,Hinjewadi,Street Food,2.9,60,Yes,No,600,Average
+1009,Burger Barn - Vaishali Nagar,Jaipur,Vaishali Nagar,"Fast Food, Italian",3.2,223,No,Yes,2000,Good
+1010,Burger Barn - Koramangala,Bangalore,Koramangala,"Continental, Mexican",3.5,103,Yes,No,200,Good
+1011,Brew & Bite - Koregaon Park,Pune,Koregaon Park,"Continental, Mexican",4.0,45,Yes,Yes,2000,Excellent
+1012,Sweet Tooth - Adyar,Chennai,Adyar,"Continental, Mughlai",3.2,136,No,Yes,600,Good
+1013,Momo Magic - Koramangala,Bangalore,Koramangala,"Cafe, Mexican, Thai",3.6,461,No,No,800,Good
+1014,Urban Tadka - Viman Nagar,Pune,Viman Nagar,"South Indian, Japanese",3.0,216,Yes,Yes,400,Good
+1015,BBQ Pit Stop - Jayanagar,Bangalore,Jayanagar,Continental,3.9,14,No,No,1500,Good
+1016,South Spice - Banjara Hills,Hyderabad,Banjara Hills,"South Indian, Mughlai, Cafe",4.0,56,No,No,300,Excellent
+1017,Burger Barn - Madhapur,Hyderabad,Madhapur,"North Indian, Thai",2.7,892,No,Yes,1500,Average
+1018,Grill Master - Karol Bagh,Delhi,Karol Bagh,"Cafe, Desserts, Italian",4.8,495,Yes,No,400,Excellent
+1019,Coastal Catch - Powai,Mumbai,Powai,South Indian,3.2,30,No,No,500,Good
+1020,Falafel King - Bandra,Mumbai,Bandra,"South Indian, BBQ, Thai",4.1,174,No,Yes,1500,Excellent
+1021,South Spice - Koramangala,Bangalore,Koramangala,"Cafe, Chinese",2.8,205,No,No,500,Average
+1022,Punjabi Dhaba - Hinjewadi,Pune,Hinjewadi,"Mughlai, Fast Food, Bakery",2.6,720,No,Yes,500,Average
+1023,Green Bowl - Koregaon Park,Pune,Koregaon Park,Desserts,3.1,325,Yes,Yes,200,Good
+1024,Royal Biryani House - Connaught Place,Delhi,Connaught Place,BBQ,3.2,220,Yes,No,300,Good
+1025,South Spice - Hinjewadi,Pune,Hinjewadi,"Italian, Cafe",3.8,61,Yes,No,500,Good
+1026,Cafe Mocha - Tonk Road,Jaipur,Tonk Road,South Indian,4.8,447,No,No,1000,Excellent
+1027,Dim Sum Den - Howrah,Kolkata,Howrah,"North Indian, Mughlai, Street Food",4.8,675,Yes,Yes,1000,Excellent
+1028,Royal Biryani House - T Nagar,Chennai,T Nagar,Italian,3.9,764,No,Yes,1000,Good
+1029,Cheesecake Factory Lite - Whitefield,Bangalore,Whitefield,Not Specified,2.7,65,Yes,No,1500,Average
+1030,Sweet Tooth - Connaught Place,Delhi,Connaught Place,"Street Food, North Indian, South Indian",2.6,118,Yes,Yes,1000,Average
+1031,Cafe Mocha - Tonk Road,Jaipur,Tonk Road,"BBQ, North Indian",3.4,94,Yes,No,200,Good
+1032,Pancake Paradise - Ballygunge,Kolkata,Ballygunge,"Mexican, Continental",4.5,132,No,Yes,500,Excellent
+1033,Tandoori Nights - Gachibowli,Hyderabad,Gachibowli,"Thai, Cafe, North Indian",3.2,234,No,Yes,200,Good
+1034,Tandoori Nights - C Scheme,Jaipur,C Scheme,Not Specified,2.8,486,Yes,Yes,500,Average
+1035,Falafel King - Park Street,Kolkata,Park Street,"Italian, Desserts, Street Food",3.6,1300,Yes,Yes,1000,Good
+1036,Cafe Mocha - Anna Nagar,Chennai,Anna Nagar,"Thai, Fast Food, Italian",4.4,66,No,No,400,Excellent
+1037,Green Bowl - Madhapur,Hyderabad,Madhapur,North Indian,2.5,506,No,Yes,300,Average
+1038,Sushi Zen - Hinjewadi,Pune,Hinjewadi,"BBQ, South Indian",4.2,391,Yes,No,600,Excellent
+1039,Grill Master - Jayanagar,Bangalore,Jayanagar,"Thai, Mexican, Desserts",4.4,23,Yes,No,300,Excellent
+1040,Pizza Bella - Whitefield,Bangalore,Whitefield,Thai,3.4,36,Yes,No,600,Good
+1041,Cafe Mocha - Hinjewadi,Pune,Hinjewadi,"Mughlai, Street Food, Mexican",4.6,292,No,No,200,Excellent
+1042,Grill Master - Dwarka,Delhi,Dwarka,"North Indian, BBQ",3.3,19,No,Yes,600,Good
+1043,Mughlai Mahal - Jayanagar,Bangalore,Jayanagar,"Continental, Cafe, North Indian",3.6,117,Yes,Yes,400,Good
+1044,Pasta Pronto - Powai,Mumbai,Powai,"Chinese, Continental, BBQ",4.3,304,Yes,No,800,Excellent
+1045,Cafe Mocha - Powai,Mumbai,Powai,"Italian, Mughlai, South Indian",4.6,191,No,No,2000,Excellent
+1046,Dim Sum Den - Koramangala,Bangalore,Koramangala,Japanese,2.8,374,Yes,No,200,Average
+1047,Brew & Bite - Whitefield,Bangalore,Whitefield,"Japanese, Mughlai",4.3,247,Yes,No,400,Excellent
+1048,Dim Sum Den - Dwarka,Delhi,Dwarka,Street Food,4.4,204,No,Yes,500,Excellent
+1049,Taco Fiesta - Vaishali Nagar,Jaipur,Vaishali Nagar,Italian,3.8,167,Yes,Yes,1000,Good
+1050,Dim Sum Den - Anna Nagar,Chennai,Anna Nagar,Japanese,2.6,34,No,No,1500,Average
+1051,Spice Garden - Ballygunge,Kolkata,Ballygunge,BBQ,2.6,303,No,Yes,2000,Average
+1052,Pizza Bella - Banjara Hills,Hyderabad,Banjara Hills,"Continental, Fast Food, Thai",3.3,213,No,No,2000,Good
+1053,Falafel King - Dwarka,Delhi,Dwarka,"Italian, Mexican, North Indian",4.7,86,No,Yes,1500,Excellent
+1054,Wok This Way - Hinjewadi,Pune,Hinjewadi,Mughlai,3.5,422,No,No,300,Good
+1055,South Spice - Jubilee Hills,Hyderabad,Jubilee Hills,"Fast Food, Continental",3.6,24,No,Yes,500,Good
+1056,South Spice - Howrah,Kolkata,Howrah,"BBQ, Chinese, Desserts",3.2,52,No,No,1500,Good
+1057,Taco Fiesta - Powai,Mumbai,Powai,Not Specified,4.7,495,No,No,1200,Excellent
+1058,Urban Tadka - C Scheme,Jaipur,C Scheme,"Japanese, BBQ",4.0,615,Yes,Yes,600,Excellent
+1059,Grill Master - T Nagar,Chennai,T Nagar,Mughlai,4.4,61,No,Yes,500,Excellent
+1060,Tandoori Nights - Indiranagar,Bangalore,Indiranagar,Bakery,4.6,232,Yes,No,1000,Excellent
+1061,Coastal Catch - Kothrud,Pune,Kothrud,"Italian, Chinese",4.4,679,Yes,Yes,1000,Excellent
+1062,Brew & Bite - Viman Nagar,Pune,Viman Nagar,"Cafe, Bakery, North Indian",3.3,34,Yes,Yes,1200,Good
+1063,South Spice - Jayanagar,Bangalore,Jayanagar,"Cafe, Desserts, Fast Food",3.0,167,No,No,1500,Good
+1064,Momo Magic - C Scheme,Jaipur,C Scheme,"Bakery, Mexican",4.5,591,Yes,No,1500,Excellent
+1065,Noodle Street - C Scheme,Jaipur,C Scheme,"South Indian, Thai",2.5,214,No,Yes,600,Average
+1066,Falafel King - Anna Nagar,Chennai,Anna Nagar,"South Indian, Chinese, Street Food",3.5,75,Yes,No,400,Good
+1067,Wok This Way - Koregaon Park,Pune,Koregaon Park,"Fast Food, Cafe",2.8,123,No,No,200,Average
+1068,Punjabi Dhaba - Kothrud,Pune,Kothrud,"Thai, North Indian, Japanese",4.8,117,No,No,200,Excellent
+1069,Kebab Junction - Anna Nagar,Chennai,Anna Nagar,"Street Food, BBQ",3.7,364,No,Yes,1200,Good
+1070,Wok This Way - Hinjewadi,Pune,Hinjewadi,"North Indian, Continental",3.4,1070,No,No,400,Good
+1071,BBQ Pit Stop - C Scheme,Jaipur,C Scheme,"North Indian, Continental, Desserts",4.8,87,Yes,Yes,1000,Excellent
+1072,Burger Barn - Jayanagar,Bangalore,Jayanagar,Mexican,3.7,107,No,No,500,Good
+1073,Green Bowl - Vaishali Nagar,Jaipur,Vaishali Nagar,"Mexican, Japanese",3.2,11,No,No,300,Good
+1074,Momo Magic - Malviya Nagar,Jaipur,Malviya Nagar,"North Indian, Fast Food, Italian",4.0,209,Yes,Yes,200,Excellent
+1075,Grill Master - Viman Nagar,Pune,Viman Nagar,Desserts,2.6,97,Yes,Yes,400,Average
+1076,Pasta Pronto - Malviya Nagar,Jaipur,Malviya Nagar,Bakery,4.7,82,No,No,400,Excellent
+1077,Taco Fiesta - Saket,Delhi,Saket,Desserts,2.8,201,Yes,No,2000,Average
+1078,The Coffee House - Howrah,Kolkata,Howrah,South Indian,4.9,83,Yes,Yes,600,Excellent
+1079,The Bread Basket - Connaught Place,Delhi,Connaught Place,"Continental, Mughlai, Fast Food",4.1,430,Yes,No,200,Excellent
+1080,Pizza Bella - Howrah,Kolkata,Howrah,"Fast Food, Mughlai",3.1,390,No,Yes,1000,Good
+1081,BBQ Pit Stop - Whitefield,Bangalore,Whitefield,"Japanese, Bakery, Street Food",3.4,300,No,No,800,Good
+1082,Noodle Street - Koregaon Park,Pune,Koregaon Park,"Italian, Japanese",4.0,230,No,No,800,Excellent
+1083,Dim Sum Den - Dadar,Mumbai,Dadar,"Chinese, Bakery",2.7,541,Yes,No,600,Average
+1084,Falafel King - Anna Nagar,Chennai,Anna Nagar,"Thai, Mexican, Cafe",3.3,61,Yes,Yes,300,Good
+1085,Coastal Catch - Kothrud,Pune,Kothrud,"Japanese, Italian, Thai",2.6,268,No,No,1200,Average
+1086,Taco Fiesta - Andheri,Mumbai,Andheri,Continental,4.1,5,Yes,No,2000,Excellent
+1087,Mughlai Mahal - Velachery,Chennai,Velachery,"Fast Food, Continental, Thai",3.7,77,No,No,1200,Good
+1088,Noodle Street - Jubilee Hills,Hyderabad,Jubilee Hills,South Indian,4.0,57,Yes,No,300,Excellent
+1089,Cafe Mocha - Koramangala,Bangalore,Koramangala,"Bakery, Mexican, Thai",4.2,146,No,Yes,500,Excellent
+1090,The Bread Basket - Gachibowli,Hyderabad,Gachibowli,Mexican,4.7,44,Yes,Yes,600,Excellent
+1091,Mughlai Mahal - Andheri,Mumbai,Andheri,"Thai, Chinese",3.3,36,No,Yes,200,Good
+1092,Coastal Catch - Madhapur,Hyderabad,Madhapur,"Fast Food, Chinese",4.7,629,Yes,No,1200,Excellent
+1093,Punjabi Dhaba - Connaught Place,Delhi,Connaught Place,"South Indian, Desserts",3.1,323,Yes,Yes,400,Good
+1094,Royal Biryani House - Banjara Hills,Hyderabad,Banjara Hills,Cafe,4.5,243,No,Yes,1500,Excellent
+1095,Pancake Paradise - Howrah,Kolkata,Howrah,"Mexican, Street Food",3.8,83,No,No,2000,Good
+1096,Kebab Junction - Andheri,Mumbai,Andheri,Mughlai,2.7,682,Yes,No,300,Average
+1097,Burger Barn - Koramangala,Bangalore,Koramangala,"South Indian, Chinese, North Indian",4.7,300,No,No,2000,Excellent
+1098,Tandoori Nights - Vaishali Nagar,Jaipur,Vaishali Nagar,Mexican,3.3,128,No,No,300,Good
+1099,Brew & Bite - Hinjewadi,Pune,Hinjewadi,"Desserts, Mughlai, Japanese",4.2,682,Yes,No,300,Excellent
+1100,Pancake Paradise - Viman Nagar,Pune,Viman Nagar,"Street Food, Chinese",4.6,454,Yes,Yes,400,Excellent
+1101,Cheesecake Factory Lite - Jubilee Hills,Hyderabad,Jubilee Hills,Bakery,4.0,26,No,No,600,Excellent
+1102,The Curry Leaf - Tonk Road,Jaipur,Tonk Road,"North Indian, Continental, Thai",2.9,686,No,No,200,Average
+1103,South Spice - Saket,Delhi,Saket,Not Specified,4.0,2,No,Yes,400,Excellent
+1104,Pancake Paradise - Tonk Road,Jaipur,Tonk Road,"Chinese, Desserts",2.7,326,No,No,300,Average
+1105,Wok This Way - Vaishali Nagar,Jaipur,Vaishali Nagar,"Fast Food, Mughlai",2.5,52,Yes,Yes,800,Average
+1106,Taco Fiesta - Howrah,Kolkata,Howrah,"Continental, Street Food, Japanese",3.8,353,Yes,No,300,Good
+1107,Green Bowl - Anna Nagar,Chennai,Anna Nagar,Japanese,4.1,76,No,Yes,1500,Excellent
+1108,Tandoori Nights - Tonk Road,Jaipur,Tonk Road,Cafe,4.2,81,No,No,1200,Excellent
+1109,Noodle Street - Bandra,Mumbai,Bandra,"Chinese, Mexican, Bakery",3.3,411,No,Yes,200,Good
+1110,Taco Fiesta - Viman Nagar,Pune,Viman Nagar,"North Indian, Cafe, Continental",4.1,567,Yes,Yes,300,Excellent
+1111,Sweet Tooth - Malviya Nagar,Jaipur,Malviya Nagar,Bakery,4.1,252,No,No,1000,Excellent
+1112,Royal Biryani House - Tonk Road,Jaipur,Tonk Road,"Cafe, Chinese",2.7,137,No,Yes,2000,Average
+1113,Noodle Street - Indiranagar,Bangalore,Indiranagar,"Fast Food, Japanese",3.1,83,No,Yes,600,Good
+1114,Dim Sum Den - Madhapur,Hyderabad,Madhapur,Bakery,4.8,149,No,No,800,Excellent
+1115,Pancake Paradise - Howrah,Kolkata,Howrah,"Street Food, Italian",4.6,299,Yes,No,500,Excellent
+1116,Green Bowl - Park Street,Kolkata,Park Street,"Bakery, Thai, Japanese",4.4,209,No,No,400,Excellent
+1117,Sushi Zen - Malviya Nagar,Jaipur,Malviya Nagar,"Desserts, Fast Food, South Indian",3.9,203,No,Yes,1500,Good
+1118,Momo Magic - Malviya Nagar,Jaipur,Malviya Nagar,Continental,3.0,384,Yes,Yes,1200,Good
+1119,BBQ Pit Stop - Jubilee Hills,Hyderabad,Jubilee Hills,"Continental, Mughlai, South Indian",3.2,7,No,No,800,Good
+1120,BBQ Pit Stop - Malviya Nagar,Jaipur,Malviya Nagar,Italian,4.0,58,No,Yes,300,Excellent
+1121,Kebab Junction - Park Street,Kolkata,Park Street,"Thai, Street Food, South Indian",4.8,923,No,Yes,600,Excellent
+1122,Green Bowl - Andheri,Mumbai,Andheri,Mexican,4.7,138,No,No,1000,Excellent
+1123,Urban Tadka - Koramangala,Bangalore,Koramangala,"Desserts, Mughlai",2.5,790,Yes,Yes,400,Average
+1124,BBQ Pit Stop - Dwarka,Delhi,Dwarka,"Italian, Bakery, Desserts",3.5,1020,Yes,Yes,1200,Good
+1125,Noodle Street - Madhapur,Hyderabad,Madhapur,"North Indian, Japanese, Bakery",4.8,575,No,Yes,300,Excellent
+1126,Pasta Pronto - Vaishali Nagar,Jaipur,Vaishali Nagar,"Mughlai, Continental",3.2,145,No,No,600,Good
+1127,Dim Sum Den - Kothrud,Pune,Kothrud,"South Indian, Italian",4.5,114,No,No,2000,Excellent
+1128,Spice Garden - Jubilee Hills,Hyderabad,Jubilee Hills,"Continental, Mexican, North Indian",2.9,244,Yes,No,600,Average
+1129,Royal Biryani House - Hinjewadi,Pune,Hinjewadi,"Italian, Desserts, Mexican",4.7,357,Yes,Yes,200,Excellent
+1130,Tandoori Nights - Madhapur,Hyderabad,Madhapur,"Fast Food, Thai, Chinese",3.9,30,Yes,No,800,Good
+1131,Cafe Mocha - Salt Lake,Kolkata,Salt Lake,Japanese,4.0,1383,No,No,400,Excellent
+1132,Brew & Bite - Madhapur,Hyderabad,Madhapur,"Thai, Street Food",2.8,219,No,Yes,1200,Average
+1133,Kebab Junction - Saket,Delhi,Saket,Street Food,4.6,405,No,No,300,Excellent
+1134,Noodle Street - Park Street,Kolkata,Park Street,"South Indian, Bakery, Fast Food",4.2,363,No,No,800,Excellent
+1135,Coastal Catch - Saket,Delhi,Saket,Desserts,3.4,104,No,Yes,300,Good
+1136,Sweet Tooth - Vaishali Nagar,Jaipur,Vaishali Nagar,"South Indian, Chinese",4.4,498,Yes,Yes,600,Excellent
+1137,Pizza Bella - Malviya Nagar,Jaipur,Malviya Nagar,BBQ,4.6,733,Yes,No,1200,Excellent
+1138,Pasta Pronto - Velachery,Chennai,Velachery,"Thai, Chinese, Continental",3.7,208,Yes,No,2000,Good
+1139,Tandoori Nights - Ballygunge,Kolkata,Ballygunge,"Fast Food, Italian, Bakery",4.4,314,No,Yes,800,Excellent
+1140,Mughlai Mahal - Karol Bagh,Delhi,Karol Bagh,"Fast Food, North Indian, Continental",4.2,476,No,Yes,300,Excellent
+1141,South Spice - Malviya Nagar,Jaipur,Malviya Nagar,Mughlai,4.6,123,Yes,Yes,800,Excellent
+1142,Brew & Bite - Viman Nagar,Pune,Viman Nagar,"Italian, South Indian, Japanese",3.4,29,Yes,Yes,500,Good
+1143,Brew & Bite - Adyar,Chennai,Adyar,"North Indian, Mexican, Chinese",3.9,10,Yes,No,400,Good
+1144,Sushi Zen - Connaught Place,Delhi,Connaught Place,Fast Food,3.6,234,Yes,No,200,Good
+1145,Tandoori Nights - Whitefield,Bangalore,Whitefield,Thai,3.2,268,No,Yes,300,Good
+1146,Kebab Junction - Tonk Road,Jaipur,Tonk Road,"Cafe, Desserts",2.6,11,Yes,No,1500,Average
+1147,Momo Magic - Koregaon Park,Pune,Koregaon Park,"Cafe, Mexican, Bakery",4.5,133,Yes,Yes,1200,Excellent
+1148,South Spice - Howrah,Kolkata,Howrah,Bakery,2.8,221,No,Yes,300,Average
+1149,The Curry Leaf - Adyar,Chennai,Adyar,Mexican,4.3,72,No,No,2000,Excellent
+1150,Urban Tadka - Madhapur,Hyderabad,Madhapur,"Continental, South Indian, Japanese",4.0,26,Yes,Yes,1000,Excellent
+1151,Wok This Way - C Scheme,Jaipur,C Scheme,"Street Food, Bakery",2.6,227,No,No,300,Average
+1152,Green Bowl - Velachery,Chennai,Velachery,"Mexican, Fast Food, Chinese",3.8,304,No,Yes,300,Good
+1153,Wok This Way - Connaught Place,Delhi,Connaught Place,Thai,4.2,1117,No,Yes,1500,Excellent
+1154,South Spice - Powai,Mumbai,Powai,Continental,3.7,117,No,No,200,Good
+1155,The Bread Basket - Jubilee Hills,Hyderabad,Jubilee Hills,Desserts,4.4,94,Yes,Yes,1200,Excellent
+1156,The Bread Basket - Koregaon Park,Pune,Koregaon Park,"Fast Food, South Indian, Japanese",3.6,24,No,Yes,1000,Good
+1157,Spice Garden - Powai,Mumbai,Powai,Mexican,2.6,986,No,No,800,Average
+1158,Dim Sum Den - Bandra,Mumbai,Bandra,Desserts,4.5,357,No,Yes,400,Excellent
+1159,Momo Magic - Andheri,Mumbai,Andheri,"Italian, Continental, Street Food",3.5,57,No,No,400,Good
+1160,Momo Magic - Anna Nagar,Chennai,Anna Nagar,"Japanese, Desserts",2.9,86,Yes,Yes,400,Average
+1161,South Spice - Indiranagar,Bangalore,Indiranagar,Mexican,3.8,376,No,No,1200,Good
+1162,Noodle Street - Tonk Road,Jaipur,Tonk Road,Japanese,3.6,98,Yes,No,1000,Good
+1163,South Spice - Karol Bagh,Delhi,Karol Bagh,"Desserts, Bakery, Cafe",4.8,401,No,Yes,500,Excellent
+1164,Spice Garden - Park Street,Kolkata,Park Street,Mexican,3.8,283,Yes,Yes,600,Good
+1165,Pizza Bella - Jubilee Hills,Hyderabad,Jubilee Hills,Bakery,3.5,85,No,Yes,400,Good
+1166,Urban Tadka - Salt Lake,Kolkata,Salt Lake,"Street Food, Mughlai, Japanese",3.4,425,No,Yes,1000,Good
+1167,Spice Garden - Dadar,Mumbai,Dadar,"BBQ, South Indian",2.5,37,No,No,2000,Average
+1168,Taco Fiesta - Howrah,Kolkata,Howrah,Continental,2.6,12,Yes,No,400,Average
+1169,The Curry Leaf - Vaishali Nagar,Jaipur,Vaishali Nagar,"Street Food, South Indian",4.6,364,Yes,No,2000,Excellent
+1170,Punjabi Dhaba - Park Street,Kolkata,Park Street,"Thai, Fast Food",3.6,30,Yes,No,400,Good
+1171,Urban Tadka - Connaught Place,Delhi,Connaught Place,"Italian, Japanese, Fast Food",3.7,192,No,Yes,500,Good
+1172,Noodle Street - Saket,Delhi,Saket,Chinese,2.9,170,Yes,Yes,400,Average
+1173,Kebab Junction - Tonk Road,Jaipur,Tonk Road,"Japanese, Desserts, Bakery",3.5,287,No,No,400,Good
+1174,Coastal Catch - Malviya Nagar,Jaipur,Malviya Nagar,"Mughlai, Mexican",4.0,13,No,Yes,800,Excellent
+1175,Cheesecake Factory Lite - Karol Bagh,Delhi,Karol Bagh,"North Indian, BBQ",3.4,294,No,No,300,Good
+1176,Cheesecake Factory Lite - Dwarka,Delhi,Dwarka,"Cafe, Japanese, Thai",3.7,582,Yes,No,2000,Good
+1177,BBQ Pit Stop - Hinjewadi,Pune,Hinjewadi,"Cafe, Chinese",4.1,53,Yes,No,300,Excellent
+1178,Urban Tadka - T Nagar,Chennai,T Nagar,"Chinese, North Indian, Italian",2.7,308,No,No,1500,Average
+1179,The Bread Basket - Whitefield,Bangalore,Whitefield,"Continental, BBQ",2.6,264,No,Yes,800,Average
+1180,Pizza Bella - Karol Bagh,Delhi,Karol Bagh,"Mughlai, Continental, Mexican",4.8,257,No,Yes,800,Excellent
+1181,Pancake Paradise - Saket,Delhi,Saket,"Mexican, Mughlai",3.4,309,No,Yes,2000,Good
+1182,Mughlai Mahal - Karol Bagh,Delhi,Karol Bagh,"Mughlai, Japanese",3.6,236,No,Yes,1500,Good
+1183,Urban Tadka - Dwarka,Delhi,Dwarka,"North Indian, Fast Food",4.8,146,No,Yes,500,Excellent
+1184,Cafe Mocha - Velachery,Chennai,Velachery,Chinese,4.8,707,Yes,Yes,600,Excellent
+1185,South Spice - Connaught Place,Delhi,Connaught Place,"BBQ, Japanese",3.0,21,Yes,No,400,Good
+1186,Grill Master - Koramangala,Bangalore,Koramangala,"Japanese, Desserts, BBQ",2.7,5,Yes,No,200,Average
+1187,South Spice - Ballygunge,Kolkata,Ballygunge,"Italian, Bakery, Desserts",2.7,344,No,No,500,Average
+1188,Brew & Bite - Hinjewadi,Pune,Hinjewadi,"BBQ, Street Food",2.7,115,Yes,No,2000,Average
+1189,Kebab Junction - Tonk Road,Jaipur,Tonk Road,"Japanese, Continental",3.6,7,No,Yes,500,Good
+1190,Tandoori Nights - Whitefield,Bangalore,Whitefield,"Bakery, Street Food, Fast Food",4.5,99,Yes,Yes,600,Excellent
+1191,Noodle Street - Saket,Delhi,Saket,"BBQ, Cafe",2.8,357,Yes,No,300,Average
+1192,Falafel King - Kothrud,Pune,Kothrud,"BBQ, North Indian",4.0,629,No,Yes,1000,Excellent
+1193,Punjabi Dhaba - Adyar,Chennai,Adyar,Fast Food,4.3,488,Yes,Yes,800,Excellent
+1194,Brew & Bite - Karol Bagh,Delhi,Karol Bagh,Chinese,3.2,58,Yes,No,1200,Good
+1195,Cheesecake Factory Lite - Jayanagar,Bangalore,Jayanagar,"North Indian, South Indian, BBQ",4.3,493,No,Yes,400,Excellent
+1196,Kebab Junction - Park Street,Kolkata,Park Street,"Italian, Mexican",4.9,159,Yes,Yes,500,Excellent
+1197,The Curry Leaf - Howrah,Kolkata,Howrah,Street Food,3.4,449,No,Yes,1500,Good
+1198,Taco Fiesta - Viman Nagar,Pune,Viman Nagar,"North Indian, Desserts",3.3,801,No,Yes,2000,Good
+1199,South Spice - Salt Lake,Kolkata,Salt Lake,"South Indian, Cafe, Fast Food",4.6,168,Yes,Yes,1000,Excellent
+1200,Sweet Tooth - Malviya Nagar,Jaipur,Malviya Nagar,"Fast Food, Mexican",4.3,421,Yes,No,300,Excellent
+1201,Momo Magic - Adyar,Chennai,Adyar,"Mughlai, South Indian, Japanese",2.7,698,No,Yes,200,Average
+1202,Grill Master - Anna Nagar,Chennai,Anna Nagar,"Chinese, Street Food, Japanese",3.7,525,No,No,400,Good
+1203,The Coffee House - Indiranagar,Bangalore,Indiranagar,"North Indian, Mexican",3.3,677,Yes,Yes,500,Good
+1204,Pancake Paradise - Powai,Mumbai,Powai,"Cafe, Continental",3.4,3,No,No,200,Good
+1205,The Bread Basket - Hinjewadi,Pune,Hinjewadi,Street Food,4.7,28,No,No,300,Excellent
+1206,Falafel King - Velachery,Chennai,Velachery,"Thai, Bakery",3.3,899,No,No,400,Good
+1207,The Bread Basket - Tonk Road,Jaipur,Tonk Road,"Mexican, Japanese, South Indian",4.8,255,No,Yes,1000,Excellent
+1208,Green Bowl - Whitefield,Bangalore,Whitefield,South Indian,4.0,178,No,No,600,Excellent
+1209,Burger Barn - Tonk Road,Jaipur,Tonk Road,"Bakery, Fast Food, BBQ",3.2,119,Yes,No,2000,Good
+1210,Sweet Tooth - Ballygunge,Kolkata,Ballygunge,South Indian,4.1,418,No,No,1500,Excellent
+1211,Sushi Zen - Indiranagar,Bangalore,Indiranagar,"Mughlai, Japanese, Bakery",4.4,467,Yes,Yes,300,Excellent
+1212,The Bread Basket - Hinjewadi,Pune,Hinjewadi,"Desserts, North Indian",2.7,204,Yes,No,800,Average
+1213,Kebab Junction - Velachery,Chennai,Velachery,Desserts,2.6,239,Yes,No,1000,Average
+1214,Royal Biryani House - Anna Nagar,Chennai,Anna Nagar,North Indian,3.6,655,Yes,No,1500,Good
+1215,Noodle Street - Park Street,Kolkata,Park Street,"Thai, Bakery",3.3,37,Yes,No,1200,Good
+1216,Sushi Zen - Koregaon Park,Pune,Koregaon Park,Bakery,2.8,430,Yes,No,300,Average
+1217,The Coffee House - Anna Nagar,Chennai,Anna Nagar,Cafe,4.0,31,No,No,400,Excellent
+1218,Urban Tadka - Whitefield,Bangalore,Whitefield,South Indian,2.7,362,Yes,Yes,500,Average
+1219,The Bread Basket - Malviya Nagar,Jaipur,Malviya Nagar,"Desserts, Fast Food, Bakery",2.7,517,Yes,Yes,300,Average
+1220,The Coffee House - Madhapur,Hyderabad,Madhapur,"Bakery, Cafe, Continental",4.2,25,No,Yes,400,Excellent
+1221,Cheesecake Factory Lite - T Nagar,Chennai,T Nagar,"Mughlai, Cafe",2.7,1294,No,Yes,1500,Average
+1222,Wok This Way - Koramangala,Bangalore,Koramangala,"BBQ, Street Food, North Indian",3.4,138,Yes,Yes,600,Good
+1223,Green Bowl - Koramangala,Bangalore,Koramangala,"Italian, Fast Food, Cafe",4.5,882,No,Yes,600,Excellent
+1224,Sushi Zen - Hinjewadi,Pune,Hinjewadi,"Mexican, Desserts, Cafe",4.9,419,Yes,Yes,2000,Excellent
+1225,South Spice - Koramangala,Bangalore,Koramangala,"Thai, Desserts, Fast Food",3.4,26,Yes,Yes,300,Good
+1226,Sweet Tooth - Powai,Mumbai,Powai,Japanese,4.4,245,No,Yes,1200,Excellent
+1227,Coastal Catch - Jubilee Hills,Hyderabad,Jubilee Hills,Japanese,3.5,710,No,No,1200,Good
+1228,Burger Barn - Connaught Place,Delhi,Connaught Place,"Continental, Bakery",2.8,203,No,Yes,800,Average
+1229,Dim Sum Den - Whitefield,Bangalore,Whitefield,"Fast Food, Thai, BBQ",2.5,189,No,Yes,800,Average
+1230,Royal Biryani House - Karol Bagh,Delhi,Karol Bagh,"South Indian, Mexican",2.6,37,No,Yes,400,Average
+1231,Taco Fiesta - Connaught Place,Delhi,Connaught Place,"Street Food, Desserts",2.8,314,No,Yes,400,Average
+1232,Cafe Mocha - Anna Nagar,Chennai,Anna Nagar,Bakery,3.6,262,No,No,600,Good
+1233,The Curry Leaf - Malviya Nagar,Jaipur,Malviya Nagar,"Cafe, Bakery",4.8,140,Yes,Yes,2000,Excellent
+1234,Tandoori Nights - T Nagar,Chennai,T Nagar,"Bakery, Desserts",3.2,608,No,No,1500,Good
+1235,Wok This Way - Andheri,Mumbai,Andheri,BBQ,3.0,990,No,No,1000,Good
+1236,Punjabi Dhaba - T Nagar,Chennai,T Nagar,Desserts,2.5,1050,Yes,No,1500,Average
+1237,Punjabi Dhaba - Banjara Hills,Hyderabad,Banjara Hills,"Bakery, Japanese, Cafe",2.6,665,No,Yes,400,Average
+1238,The Bread Basket - Dwarka,Delhi,Dwarka,"Cafe, Fast Food",3.8,1487,Yes,Yes,2000,Good
+1239,Tandoori Nights - Park Street,Kolkata,Park Street,Chinese,2.7,242,No,No,1500,Average
+1240,BBQ Pit Stop - C Scheme,Jaipur,C Scheme,"Chinese, Fast Food, Desserts",4.8,222,No,Yes,1000,Excellent
+1241,Urban Tadka - Jubilee Hills,Hyderabad,Jubilee Hills,"Cafe, Bakery, Thai",4.0,356,No,No,200,Excellent
+1242,South Spice - Anna Nagar,Chennai,Anna Nagar,Continental,3.6,296,No,Yes,2000,Good
+1243,Sweet Tooth - Vaishali Nagar,Jaipur,Vaishali Nagar,"Desserts, Italian, Thai",3.9,694,Yes,No,400,Good
+1244,Grill Master - Salt Lake,Kolkata,Salt Lake,"Italian, North Indian, Desserts",2.6,98,Yes,Yes,200,Average
+1245,Wok This Way - Vaishali Nagar,Jaipur,Vaishali Nagar,Continental,4.8,662,Yes,No,1500,Excellent
+1246,The Coffee House - Malviya Nagar,Jaipur,Malviya Nagar,Cafe,3.6,290,Yes,No,1200,Good
+1247,Burger Barn - Ballygunge,Kolkata,Ballygunge,"BBQ, Cafe",3.2,62,No,No,600,Good
+1248,Royal Biryani House - C Scheme,Jaipur,C Scheme,"Cafe, Mexican",3.6,130,Yes,No,600,Good
+1249,Green Bowl - Kothrud,Pune,Kothrud,"Fast Food, Cafe",3.9,24,No,No,300,Good
+1250,Grill Master - Howrah,Kolkata,Howrah,"Japanese, BBQ",4.8,1285,Yes,No,200,Excellent
+1251,The Bread Basket - Banjara Hills,Hyderabad,Banjara Hills,"Mughlai, Mexican",4.2,230,No,Yes,500,Excellent
+1252,Sushi Zen - Jubilee Hills,Hyderabad,Jubilee Hills,Desserts,3.2,504,Yes,Yes,200,Good
+1253,Tandoori Nights - Viman Nagar,Pune,Viman Nagar,Continental,4.1,53,No,No,300,Excellent
+1254,Mughlai Mahal - Indiranagar,Bangalore,Indiranagar,Continental,4.7,518,No,No,500,Excellent
+1255,Taco Fiesta - Jubilee Hills,Hyderabad,Jubilee Hills,"North Indian, Japanese, South Indian",4.8,388,Yes,Yes,400,Excellent
+1256,Pancake Paradise - Salt Lake,Kolkata,Salt Lake,Not Specified,4.0,162,No,No,400,Excellent
+1257,Spice Garden - Banjara Hills,Hyderabad,Banjara Hills,"Desserts, BBQ",4.7,603,Yes,No,600,Excellent
+1258,Falafel King - Tonk Road,Jaipur,Tonk Road,Street Food,2.6,8,No,No,500,Average
+1259,Burger Barn - Karol Bagh,Delhi,Karol Bagh,"Bakery, Mughlai, Mexican",3.4,499,Yes,Yes,800,Good
+1260,Burger Barn - Gachibowli,Hyderabad,Gachibowli,"Street Food, Mughlai, Continental",4.9,48,No,No,300,Excellent
+1261,Burger Barn - Park Street,Kolkata,Park Street,Bakery,3.9,143,No,Yes,200,Good
+1262,Royal Biryani House - Madhapur,Hyderabad,Madhapur,"Japanese, Mexican",4.8,553,No,No,2000,Excellent
+1263,Sweet Tooth - Powai,Mumbai,Powai,"Thai, Italian",4.5,189,Yes,Yes,1200,Excellent
+1264,Punjabi Dhaba - Gachibowli,Hyderabad,Gachibowli,"Cafe, Thai, Japanese",3.5,95,No,Yes,600,Good
+1265,Royal Biryani House - Adyar,Chennai,Adyar,Bakery,2.6,600,Yes,No,2000,Average
+1266,The Coffee House - Velachery,Chennai,Velachery,"BBQ, Bakery, Japanese",4.5,2451,Yes,Yes,2000,Excellent
+1267,Urban Tadka - Dwarka,Delhi,Dwarka,"Fast Food, South Indian, Desserts",4.9,243,Yes,Yes,1500,Excellent
+1268,Burger Barn - Viman Nagar,Pune,Viman Nagar,"Street Food, Cafe",4.3,868,No,Yes,500,Excellent
+1269,Falafel King - Malviya Nagar,Jaipur,Malviya Nagar,"Bakery, Japanese, North Indian",4.5,85,No,Yes,1500,Excellent
+1270,Pasta Pronto - Howrah,Kolkata,Howrah,Cafe,3.6,41,No,No,200,Good
+1271,Grill Master - Ballygunge,Kolkata,Ballygunge,Thai,4.8,279,Yes,Yes,200,Excellent
+1272,The Coffee House - Ballygunge,Kolkata,Ballygunge,Cafe,3.0,334,Yes,Yes,1200,Good
+1273,Wok This Way - Powai,Mumbai,Powai,Japanese,4.0,133,Yes,No,800,Excellent
+1274,Dim Sum Den - Howrah,Kolkata,Howrah,"Continental, South Indian",2.8,334,Yes,No,300,Average
+1275,Urban Tadka - Jayanagar,Bangalore,Jayanagar,Thai,3.7,443,Yes,Yes,200,Good
+1276,South Spice - Madhapur,Hyderabad,Madhapur,"Cafe, Continental, BBQ",3.7,573,No,Yes,500,Good
+1277,Sushi Zen - Vaishali Nagar,Jaipur,Vaishali Nagar,"Italian, Thai",3.8,246,Yes,Yes,1000,Good
+1278,Cafe Mocha - Bandra,Mumbai,Bandra,South Indian,4.6,154,Yes,No,2000,Excellent
+1279,Momo Magic - Bandra,Mumbai,Bandra,Continental,2.8,8,No,Yes,1500,Average
+1280,Sushi Zen - Koregaon Park,Pune,Koregaon Park,"Mexican, Italian, Thai",4.3,290,No,No,500,Excellent
+1281,South Spice - Gachibowli,Hyderabad,Gachibowli,"Italian, Continental, Mexican",4.2,71,No,Yes,1500,Excellent
+1282,Mughlai Mahal - Jayanagar,Bangalore,Jayanagar,"North Indian, Fast Food",2.8,4,No,No,1000,Average
+1283,Taco Fiesta - Salt Lake,Kolkata,Salt Lake,"Chinese, Japanese",3.3,267,No,Yes,500,Good
+1284,Brew & Bite - Gachibowli,Hyderabad,Gachibowli,"BBQ, North Indian",3.4,172,No,No,1500,Good
+1285,Royal Biryani House - Jayanagar,Bangalore,Jayanagar,"Italian, Fast Food",4.7,128,Yes,No,800,Excellent
+1286,Tandoori Nights - Saket,Delhi,Saket,"Continental, Mughlai",3.7,459,Yes,Yes,500,Good
+1287,Cafe Mocha - Kothrud,Pune,Kothrud,"Mexican, North Indian",3.5,291,Yes,Yes,300,Good
+1288,The Coffee House - C Scheme,Jaipur,C Scheme,"Thai, Italian, Continental",4.6,895,Yes,No,600,Excellent
+1289,Mughlai Mahal - Howrah,Kolkata,Howrah,"Fast Food, Mexican, Street Food",2.9,783,No,No,1200,Average
+1290,Kebab Junction - Dwarka,Delhi,Dwarka,"BBQ, Italian",3.7,89,No,No,1000,Good
+1291,Momo Magic - Bandra,Mumbai,Bandra,North Indian,3.6,1174,No,No,600,Good
+1292,Green Bowl - Koramangala,Bangalore,Koramangala,Continental,3.7,119,Yes,No,1500,Good
+1293,Kebab Junction - Anna Nagar,Chennai,Anna Nagar,"Thai, Mughlai",4.0,82,No,No,400,Excellent
+1294,Sushi Zen - Adyar,Chennai,Adyar,"Cafe, Bakery, Chinese",2.7,41,Yes,Yes,300,Average
+1295,Wok This Way - Andheri,Mumbai,Andheri,Street Food,2.8,49,Yes,Yes,400,Average
+1296,Urban Tadka - Bandra,Mumbai,Bandra,"Fast Food, North Indian",3.6,307,No,No,200,Good
+1297,Spice Garden - Dadar,Mumbai,Dadar,Cafe,2.9,127,No,No,200,Average
+1298,Pizza Bella - Salt Lake,Kolkata,Salt Lake,Cafe,4.7,192,Yes,Yes,500,Excellent
+1299,Noodle Street - Jubilee Hills,Hyderabad,Jubilee Hills,"South Indian, Fast Food",4.1,56,No,No,2000,Excellent
+1300,Taco Fiesta - Viman Nagar,Pune,Viman Nagar,"Street Food, BBQ, South Indian",3.0,12,Yes,Yes,1000,Good
+1301,Mughlai Mahal - Howrah,Kolkata,Howrah,"North Indian, Mughlai",2.9,97,Yes,Yes,300,Average
+1302,Sweet Tooth - Tonk Road,Jaipur,Tonk Road,"Desserts, Street Food",2.9,27,Yes,Yes,500,Average
+1303,Noodle Street - Kothrud,Pune,Kothrud,BBQ,2.8,185,Yes,No,1500,Average
+1304,Pancake Paradise - Bandra,Mumbai,Bandra,"North Indian, Italian",3.0,135,Yes,No,300,Good
+1305,Pasta Pronto - Gachibowli,Hyderabad,Gachibowli,Desserts,3.7,351,No,No,1000,Good
+1306,Urban Tadka - Indiranagar,Bangalore,Indiranagar,"Fast Food, North Indian, South Indian",2.6,481,No,Yes,300,Average
+1307,Kebab Junction - Velachery,Chennai,Velachery,"North Indian, Mughlai",4.0,25,No,No,1200,Excellent
+1308,Mughlai Mahal - Hinjewadi,Pune,Hinjewadi,"Continental, Chinese",4.6,761,No,Yes,2000,Excellent
+1309,The Coffee House - Gachibowli,Hyderabad,Gachibowli,South Indian,2.6,97,No,Yes,1000,Average
+1310,Green Bowl - Jayanagar,Bangalore,Jayanagar,"South Indian, BBQ",4.4,413,Yes,No,1200,Excellent
+1311,Pizza Bella - Anna Nagar,Chennai,Anna Nagar,South Indian,2.9,70,Yes,No,1200,Average
+1312,Spice Garden - Park Street,Kolkata,Park Street,Fast Food,3.4,198,Yes,No,1000,Good
+1313,Wok This Way - Powai,Mumbai,Powai,"Japanese, South Indian",4.0,138,Yes,Yes,1000,Excellent
+1314,Noodle Street - Koramangala,Bangalore,Koramangala,"Mexican, Bakery",3.6,412,Yes,Yes,400,Good
+1315,Wok This Way - Ballygunge,Kolkata,Ballygunge,"Bakery, Japanese",2.6,87,Yes,No,600,Average
+1316,BBQ Pit Stop - Kothrud,Pune,Kothrud,"Italian, Bakery, South Indian",4.2,676,Yes,No,200,Excellent
+1317,Grill Master - Ballygunge,Kolkata,Ballygunge,"Continental, Japanese, Fast Food",3.7,227,No,No,1000,Good
+1318,Green Bowl - Whitefield,Bangalore,Whitefield,"Thai, Italian, Bakery",2.8,177,No,Yes,1000,Average
+1319,Momo Magic - Anna Nagar,Chennai,Anna Nagar,"Mughlai, Bakery, Desserts",3.8,83,Yes,No,1000,Good
+1320,The Bread Basket - Madhapur,Hyderabad,Madhapur,BBQ,3.1,142,Yes,Yes,1500,Good
+1321,The Coffee House - Dadar,Mumbai,Dadar,Bakery,2.5,116,No,Yes,1000,Average
+1322,Sweet Tooth - C Scheme,Jaipur,C Scheme,"Italian, Mexican",3.0,119,Yes,No,1000,Good
+1323,BBQ Pit Stop - Dwarka,Delhi,Dwarka,"Desserts, Continental",2.8,663,No,Yes,800,Average
+1324,Kebab Junction - Connaught Place,Delhi,Connaught Place,Mughlai,3.9,340,No,Yes,2000,Good
+1325,Kebab Junction - Dadar,Mumbai,Dadar,"Japanese, Continental",4.4,207,Yes,Yes,300,Excellent
+1326,Urban Tadka - Gachibowli,Hyderabad,Gachibowli,"Cafe, BBQ, Desserts",2.7,231,Yes,No,800,Average
+1327,Kebab Junction - Howrah,Kolkata,Howrah,"Desserts, Thai, Cafe",3.9,410,Yes,No,200,Good
+1328,Taco Fiesta - Malviya Nagar,Jaipur,Malviya Nagar,"BBQ, South Indian",3.5,40,Yes,Yes,800,Good
+1329,Cheesecake Factory Lite - Jubilee Hills,Hyderabad,Jubilee Hills,Cafe,3.2,135,No,No,1200,Good
+1330,Momo Magic - Dwarka,Delhi,Dwarka,"Bakery, Fast Food, South Indian",4.1,253,No,Yes,300,Excellent
+1331,Sweet Tooth - Powai,Mumbai,Powai,Mughlai,3.4,1291,Yes,Yes,1500,Good
+1332,Green Bowl - Koramangala,Bangalore,Koramangala,"Continental, Bakery, Italian",4.0,81,No,Yes,400,Excellent
+1333,Spice Garden - Howrah,Kolkata,Howrah,"Desserts, Italian, Bakery",2.7,49,No,No,200,Average
+1334,Noodle Street - Viman Nagar,Pune,Viman Nagar,"Japanese, BBQ, South Indian",3.6,52,Yes,Yes,800,Good
+1335,Cheesecake Factory Lite - Adyar,Chennai,Adyar,Mexican,2.9,100,No,No,2000,Average
+1336,Pasta Pronto - Howrah,Kolkata,Howrah,Fast Food,2.9,681,No,No,2000,Average
+1337,Pancake Paradise - Whitefield,Bangalore,Whitefield,"Desserts, South Indian, Mughlai",2.7,223,Yes,No,300,Average
+1338,Pizza Bella - Hinjewadi,Pune,Hinjewadi,Fast Food,3.5,1211,Yes,No,1000,Good
+1339,Wok This Way - Jayanagar,Bangalore,Jayanagar,Bakery,2.8,152,Yes,Yes,1200,Average
+1340,Burger Barn - Gachibowli,Hyderabad,Gachibowli,"Street Food, Bakery",4.8,601,Yes,No,200,Excellent
+1341,Cafe Mocha - C Scheme,Jaipur,C Scheme,"Cafe, BBQ",4.5,89,No,No,1200,Excellent
+1342,Coastal Catch - Howrah,Kolkata,Howrah,South Indian,3.6,331,Yes,Yes,600,Good
+1343,Royal Biryani House - Powai,Mumbai,Powai,"Mexican, Chinese, Japanese",4.7,244,No,No,1500,Excellent
+1344,Noodle Street - Connaught Place,Delhi,Connaught Place,"Street Food, Fast Food, Cafe",3.9,98,Yes,No,1500,Good
+1345,Pizza Bella - Kothrud,Pune,Kothrud,"Street Food, Mughlai, Japanese",4.3,62,Yes,No,200,Excellent
+1346,The Bread Basket - Vaishali Nagar,Jaipur,Vaishali Nagar,Bakery,3.3,166,Yes,Yes,500,Good
+1347,Burger Barn - Velachery,Chennai,Velachery,"Chinese, Japanese, Italian",3.7,83,Yes,Yes,2000,Good
+1348,BBQ Pit Stop - Anna Nagar,Chennai,Anna Nagar,"Chinese, Fast Food, Thai",2.8,282,No,No,2000,Average
+1349,Sushi Zen - Banjara Hills,Hyderabad,Banjara Hills,"BBQ, North Indian",3.2,261,No,Yes,400,Good
+1350,The Coffee House - Viman Nagar,Pune,Viman Nagar,"Street Food, Italian",3.6,196,No,No,400,Good
+1351,Punjabi Dhaba - Madhapur,Hyderabad,Madhapur,"South Indian, Mughlai",3.8,15,Yes,No,1500,Good
+1352,Cheesecake Factory Lite - Jubilee Hills,Hyderabad,Jubilee Hills,"Fast Food, Desserts",3.3,43,Yes,Yes,1200,Good
+1353,Brew & Bite - T Nagar,Chennai,T Nagar,"Continental, Italian, BBQ",2.7,1380,Yes,No,600,Average
+1354,Green Bowl - Anna Nagar,Chennai,Anna Nagar,"Desserts, Chinese, BBQ",3.3,498,No,No,200,Good
+1355,Sweet Tooth - Andheri,Mumbai,Andheri,"North Indian, South Indian",3.1,343,Yes,No,1200,Good
+1356,Cafe Mocha - Dadar,Mumbai,Dadar,"BBQ, Chinese, Mughlai",4.3,271,No,Yes,600,Excellent
+1357,Noodle Street - Karol Bagh,Delhi,Karol Bagh,Fast Food,3.6,159,Yes,Yes,1000,Good
+1358,Wok This Way - Gachibowli,Hyderabad,Gachibowli,"South Indian, Thai, BBQ",3.3,795,Yes,Yes,1200,Good
+1359,Pasta Pronto - Saket,Delhi,Saket,Cafe,4.5,1005,No,Yes,200,Excellent
+1360,Dim Sum Den - T Nagar,Chennai,T Nagar,"Thai, Chinese",2.8,393,No,Yes,500,Average
+1361,Momo Magic - Park Street,Kolkata,Park Street,South Indian,4.8,59,No,No,600,Excellent
+1362,Kebab Junction - Jayanagar,Bangalore,Jayanagar,Mughlai,2.7,405,Yes,Yes,1500,Average
+1363,Cheesecake Factory Lite - Bandra,Mumbai,Bandra,"Thai, Italian",3.9,553,Yes,No,2000,Good
+1364,The Curry Leaf - C Scheme,Jaipur,C Scheme,Not Specified,2.8,475,Yes,No,800,Average
+1365,Brew & Bite - Ballygunge,Kolkata,Ballygunge,Italian,3.0,53,No,Yes,500,Good
+1366,Dim Sum Den - Banjara Hills,Hyderabad,Banjara Hills,"BBQ, Mexican, Italian",2.9,505,Yes,No,600,Average
+1367,Coastal Catch - Bandra,Mumbai,Bandra,"South Indian, Italian",4.1,222,No,Yes,1500,Excellent
+1368,Pancake Paradise - Powai,Mumbai,Powai,"Chinese, Continental",3.4,629,No,No,1500,Good
+1369,Kebab Junction - Jayanagar,Bangalore,Jayanagar,North Indian,3.4,508,Yes,Yes,600,Good
+1370,Pancake Paradise - Koregaon Park,Pune,Koregaon Park,Japanese,3.6,141,No,No,1500,Good
+1371,The Coffee House - Howrah,Kolkata,Howrah,"South Indian, Mughlai",3.6,107,Yes,No,300,Good
+1372,Urban Tadka - Banjara Hills,Hyderabad,Banjara Hills,Japanese,4.3,209,Yes,No,1000,Excellent
+1373,The Coffee House - Karol Bagh,Delhi,Karol Bagh,"Thai, Street Food",3.1,689,Yes,Yes,500,Good
+1374,Pizza Bella - Dwarka,Delhi,Dwarka,"Desserts, BBQ",3.4,235,Yes,No,400,Good
+1375,The Coffee House - Connaught Place,Delhi,Connaught Place,Thai,4.7,293,Yes,Yes,1200,Excellent
+1376,Burger Barn - Anna Nagar,Chennai,Anna Nagar,"Chinese, Thai",2.8,843,No,Yes,200,Average
+1377,Noodle Street - Velachery,Chennai,Velachery,"South Indian, Mexican, Thai",4.0,122,Yes,No,1200,Excellent
+1378,Coastal Catch - T Nagar,Chennai,T Nagar,"Chinese, Fast Food, BBQ",3.6,474,No,Yes,2000,Good
+1379,Momo Magic - Saket,Delhi,Saket,"North Indian, BBQ, Street Food",4.0,228,Yes,Yes,1200,Excellent
+1380,Pancake Paradise - Velachery,Chennai,Velachery,Chinese,4.6,466,Yes,No,500,Excellent
+1381,Wok This Way - Adyar,Chennai,Adyar,"Fast Food, Mexican, South Indian",2.9,112,No,Yes,1500,Average
+1382,Royal Biryani House - Bandra,Mumbai,Bandra,"North Indian, Continental, South Indian",3.1,408,No,No,600,Good
+1383,Mughlai Mahal - T Nagar,Chennai,T Nagar,"North Indian, Fast Food",2.6,253,Yes,No,2000,Average
+1384,Cheesecake Factory Lite - Gachibowli,Hyderabad,Gachibowli,"Desserts, Bakery",4.3,628,Yes,Yes,400,Excellent
+1385,Spice Garden - Dadar,Mumbai,Dadar,Cafe,3.3,516,No,Yes,800,Good
+1386,Dim Sum Den - Dadar,Mumbai,Dadar,"Thai, Mexican, South Indian",3.6,562,Yes,Yes,1000,Good
+1387,Sushi Zen - Malviya Nagar,Jaipur,Malviya Nagar,"Mexican, South Indian, North Indian",2.8,151,Yes,No,800,Average
+1388,Pasta Pronto - Malviya Nagar,Jaipur,Malviya Nagar,Cafe,4.4,48,Yes,No,300,Excellent
+1389,South Spice - Dadar,Mumbai,Dadar,Italian,3.1,384,No,No,800,Good
+1390,Green Bowl - Ballygunge,Kolkata,Ballygunge,"Mexican, Italian",4.2,307,Yes,Yes,400,Excellent
+1391,Pizza Bella - Saket,Delhi,Saket,Bakery,4.2,234,No,No,1000,Excellent
+1392,Kebab Junction - Karol Bagh,Delhi,Karol Bagh,Bakery,3.1,127,No,No,600,Good
+1393,Burger Barn - Connaught Place,Delhi,Connaught Place,"Mexican, Street Food, Thai",2.9,717,Yes,Yes,800,Average
+1394,The Coffee House - Indiranagar,Bangalore,Indiranagar,Fast Food,3.9,153,No,Yes,600,Good
+1395,Spice Garden - Gachibowli,Hyderabad,Gachibowli,"Street Food, Bakery",3.6,882,Yes,Yes,1200,Good
+1396,Pizza Bella - Saket,Delhi,Saket,North Indian,2.9,264,Yes,Yes,500,Average
+1397,South Spice - Ballygunge,Kolkata,Ballygunge,"Mughlai, South Indian, Desserts",3.7,283,No,Yes,200,Good
+1398,Falafel King - Saket,Delhi,Saket,"Bakery, Japanese, Chinese",2.5,617,Yes,No,300,Average
+1399,Tandoori Nights - Dadar,Mumbai,Dadar,BBQ,4.7,249,No,No,1200,Excellent
+1400,South Spice - Dadar,Mumbai,Dadar,"Chinese, Fast Food",4.2,767,Yes,Yes,600,Excellent
+1401,Falafel King - Madhapur,Hyderabad,Madhapur,North Indian,4.2,49,Yes,No,1200,Excellent
+1402,Tandoori Nights - Howrah,Kolkata,Howrah,Mexican,3.9,279,No,Yes,1000,Good
+1403,Sweet Tooth - Viman Nagar,Pune,Viman Nagar,"Japanese, North Indian, Continental",3.5,400,No,No,1500,Good
+1404,Pancake Paradise - Vaishali Nagar,Jaipur,Vaishali Nagar,"Cafe, Fast Food, Continental",4.7,779,No,Yes,200,Excellent
+1405,Spice Garden - Adyar,Chennai,Adyar,"North Indian, Japanese",3.6,36,No,No,2000,Good
+1406,Pizza Bella - Viman Nagar,Pune,Viman Nagar,Mughlai,4.9,547,Yes,No,1500,Excellent
+1407,Pasta Pronto - Bandra,Mumbai,Bandra,"Fast Food, Street Food",2.8,760,Yes,Yes,500,Average
+1408,Pancake Paradise - Anna Nagar,Chennai,Anna Nagar,"North Indian, Thai, Street Food",4.6,219,No,Yes,2000,Excellent
+1409,Mughlai Mahal - Kothrud,Pune,Kothrud,"Chinese, Bakery",3.9,152,Yes,Yes,200,Good
+1410,Spice Garden - Viman Nagar,Pune,Viman Nagar,"Bakery, North Indian, Fast Food",2.6,122,Yes,Yes,800,Average
+1411,Tandoori Nights - Whitefield,Bangalore,Whitefield,Chinese,4.4,1,Yes,Yes,1500,Excellent
+1412,The Bread Basket - T Nagar,Chennai,T Nagar,"Mughlai, Continental, Desserts",3.3,152,Yes,No,600,Good
+1413,Burger Barn - Adyar,Chennai,Adyar,"Continental, Japanese, Mughlai",3.8,757,No,No,400,Good
+1414,South Spice - Adyar,Chennai,Adyar,"Street Food, Chinese, Continental",3.3,127,No,No,400,Good
+1415,The Coffee House - Indiranagar,Bangalore,Indiranagar,"Continental, Street Food, Japanese",4.3,180,Yes,Yes,2000,Excellent
+1416,Sweet Tooth - Adyar,Chennai,Adyar,"South Indian, Bakery, Chinese",3.0,180,No,Yes,500,Good
+1417,Burger Barn - Anna Nagar,Chennai,Anna Nagar,"BBQ, South Indian, Thai",2.8,58,No,No,200,Average
+1418,Royal Biryani House - Gachibowli,Hyderabad,Gachibowli,"South Indian, Fast Food, Mexican",3.7,162,Yes,Yes,200,Good
+1419,Momo Magic - Howrah,Kolkata,Howrah,"Chinese, Continental",4.7,135,No,No,800,Excellent
+1420,Grill Master - Park Street,Kolkata,Park Street,"Japanese, Street Food",3.9,300,Yes,Yes,1200,Good
+1421,Taco Fiesta - Connaught Place,Delhi,Connaught Place,Fast Food,2.5,326,No,Yes,300,Average
+1422,Falafel King - Adyar,Chennai,Adyar,"Chinese, Thai",3.6,973,Yes,Yes,800,Good
+1423,Wok This Way - Malviya Nagar,Jaipur,Malviya Nagar,"Chinese, Desserts, Continental",2.9,160,Yes,Yes,300,Average
+1424,Cafe Mocha - Adyar,Chennai,Adyar,"Thai, Cafe",2.7,1730,No,No,600,Average
+1425,Tandoori Nights - Koregaon Park,Pune,Koregaon Park,"Desserts, Cafe",3.7,271,No,Yes,200,Good
+1426,Wok This Way - T Nagar,Chennai,T Nagar,Mexican,2.7,415,No,Yes,300,Average
+1427,Burger Barn - Bandra,Mumbai,Bandra,"Mexican, South Indian, Bakery",3.0,684,Yes,No,1000,Good
+1428,Falafel King - Tonk Road,Jaipur,Tonk Road,"Mexican, South Indian, Mughlai",3.0,63,No,Yes,800,Good
+1429,Burger Barn - Ballygunge,Kolkata,Ballygunge,"North Indian, Mexican",2.6,191,No,No,600,Average
+1430,Pasta Pronto - Hinjewadi,Pune,Hinjewadi,Chinese,3.9,20,Yes,Yes,800,Good
+1431,Mughlai Mahal - Salt Lake,Kolkata,Salt Lake,Street Food,4.4,181,No,No,1500,Excellent
+1432,Coastal Catch - C Scheme,Jaipur,C Scheme,"South Indian, Continental",3.8,174,Yes,Yes,300,Good
+1433,Burger Barn - C Scheme,Jaipur,C Scheme,Japanese,3.5,246,Yes,Yes,200,Good
+1434,South Spice - Park Street,Kolkata,Park Street,"Italian, Street Food",2.9,60,Yes,No,800,Average
+1435,Punjabi Dhaba - Connaught Place,Delhi,Connaught Place,"Continental, Cafe, Fast Food",4.6,876,No,No,200,Excellent
+1436,Wok This Way - Park Street,Kolkata,Park Street,Chinese,3.4,94,Yes,Yes,2000,Good
+1437,Dim Sum Den - Karol Bagh,Delhi,Karol Bagh,"BBQ, Fast Food, Continental",4.0,157,No,No,1200,Excellent
+1438,Burger Barn - Malviya Nagar,Jaipur,Malviya Nagar,"Continental, Chinese",2.6,50,No,Yes,1000,Average
+1439,Tandoori Nights - Adyar,Chennai,Adyar,"Bakery, Mexican, Fast Food",4.2,322,Yes,No,600,Excellent
+1440,Grill Master - Jubilee Hills,Hyderabad,Jubilee Hills,"Street Food, Thai",2.6,75,Yes,Yes,400,Average
+1441,Kebab Junction - Madhapur,Hyderabad,Madhapur,"Mexican, Thai",3.1,334,No,Yes,500,Good
+1442,Pancake Paradise - C Scheme,Jaipur,C Scheme,"Thai, Bakery",2.5,32,No,Yes,1500,Average
+1443,Taco Fiesta - Indiranagar,Bangalore,Indiranagar,Not Specified,4.4,59,Yes,Yes,500,Excellent
+1444,Royal Biryani House - Koregaon Park,Pune,Koregaon Park,Bakery,4.1,81,Yes,No,500,Excellent
+1445,Grill Master - Jubilee Hills,Hyderabad,Jubilee Hills,"Cafe, Continental",2.7,83,Yes,Yes,500,Average
+1446,BBQ Pit Stop - Velachery,Chennai,Velachery,"Chinese, Street Food",4.2,580,No,No,800,Excellent
+1447,Momo Magic - Whitefield,Bangalore,Whitefield,"South Indian, Mexican, North Indian",4.5,151,No,Yes,400,Excellent
+1448,Sweet Tooth - Viman Nagar,Pune,Viman Nagar,Mughlai,4.1,68,Yes,No,1000,Excellent
+1449,Coastal Catch - Andheri,Mumbai,Andheri,Mughlai,3.2,679,Yes,Yes,500,Good
+1450,The Coffee House - Jubilee Hills,Hyderabad,Jubilee Hills,"Mughlai, Mexican, Continental",2.5,26,No,No,1200,Average
+1451,Cheesecake Factory Lite - Gachibowli,Hyderabad,Gachibowli,"Mughlai, Cafe",3.6,8,No,Yes,200,Good
+1452,Taco Fiesta - Anna Nagar,Chennai,Anna Nagar,"South Indian, Bakery, BBQ",2.9,262,No,No,800,Average
+1453,Sweet Tooth - Jubilee Hills,Hyderabad,Jubilee Hills,"BBQ, Mughlai, Mexican",3.5,669,Yes,Yes,1500,Good
+1454,Brew & Bite - Koregaon Park,Pune,Koregaon Park,"Continental, Mughlai, Fast Food",4.5,125,Yes,Yes,1200,Excellent
+1455,Pancake Paradise - Jubilee Hills,Hyderabad,Jubilee Hills,"Continental, BBQ",3.1,143,Yes,Yes,800,Good
+1456,Pancake Paradise - Kothrud,Pune,Kothrud,"Fast Food, Cafe, Mexican",3.9,93,Yes,Yes,600,Good
+1457,Sushi Zen - Dwarka,Delhi,Dwarka,Not Specified,4.0,157,Yes,No,300,Excellent
+1458,Royal Biryani House - Hinjewadi,Pune,Hinjewadi,"Street Food, Mexican, Continental",3.8,171,No,No,600,Good
+1459,Dim Sum Den - Madhapur,Hyderabad,Madhapur,Bakery,3.2,889,Yes,Yes,1200,Good
+1460,Dim Sum Den - Koregaon Park,Pune,Koregaon Park,"Continental, Cafe, Mexican",4.3,45,No,Yes,400,Excellent
+1461,Green Bowl - Koramangala,Bangalore,Koramangala,"Desserts, Bakery",4.6,200,Yes,No,400,Excellent
+1462,Green Bowl - Dwarka,Delhi,Dwarka,"Chinese, Fast Food, Mughlai",4.6,482,Yes,Yes,1200,Excellent
+1463,Kebab Junction - Gachibowli,Hyderabad,Gachibowli,Desserts,3.5,6,Yes,No,300,Good
+1464,Sweet Tooth - Jayanagar,Bangalore,Jayanagar,"Continental, BBQ",3.1,234,No,No,200,Good
+1465,Momo Magic - Bandra,Mumbai,Bandra,"North Indian, Fast Food",4.0,89,Yes,Yes,200,Excellent
+1466,The Coffee House - Viman Nagar,Pune,Viman Nagar,"Mexican, Chinese",2.8,540,Yes,No,1500,Average
+1467,The Curry Leaf - Gachibowli,Hyderabad,Gachibowli,Mexican,4.9,223,No,No,1500,Excellent
+1468,Falafel King - Velachery,Chennai,Velachery,"Chinese, Fast Food, Bakery",2.9,95,No,Yes,400,Average
+1469,Royal Biryani House - Park Street,Kolkata,Park Street,Thai,2.5,737,Yes,Yes,200,Average
+1470,The Bread Basket - Indiranagar,Bangalore,Indiranagar,"Mughlai, Japanese, North Indian",2.8,257,No,No,1500,Average
+1471,South Spice - Andheri,Mumbai,Andheri,Mughlai,3.2,242,Yes,Yes,300,Good
+1472,Punjabi Dhaba - Howrah,Kolkata,Howrah,Cafe,4.1,531,No,No,400,Excellent
+1473,Taco Fiesta - Koregaon Park,Pune,Koregaon Park,"Mughlai, South Indian",3.0,3,No,Yes,1000,Good
+1474,Taco Fiesta - Connaught Place,Delhi,Connaught Place,Japanese,2.8,690,Yes,No,500,Average
+1475,Grill Master - Hinjewadi,Pune,Hinjewadi,"Italian, Fast Food, Thai",4.6,272,No,No,400,Excellent
+1476,Pancake Paradise - Dadar,Mumbai,Dadar,Thai,3.9,328,No,No,500,Good
+1477,South Spice - Andheri,Mumbai,Andheri,BBQ,2.9,737,Yes,No,400,Average
+1478,Momo Magic - Connaught Place,Delhi,Connaught Place,"South Indian, Mexican, Mughlai",3.5,144,Yes,No,600,Good
+1479,Tandoori Nights - Madhapur,Hyderabad,Madhapur,Street Food,3.7,14,Yes,Yes,600,Good
+1480,Wok This Way - Anna Nagar,Chennai,Anna Nagar,"South Indian, BBQ, Japanese",3.6,401,Yes,Yes,400,Good
+1481,The Bread Basket - Whitefield,Bangalore,Whitefield,"Desserts, Mexican",2.7,277,Yes,No,800,Average
+1482,Punjabi Dhaba - Indiranagar,Bangalore,Indiranagar,"Bakery, Mexican",3.1,147,No,No,1000,Good
+1483,Sushi Zen - Indiranagar,Bangalore,Indiranagar,"Thai, North Indian, Chinese",3.2,131,Yes,No,2000,Good
+1484,Burger Barn - Tonk Road,Jaipur,Tonk Road,"Continental, Japanese, Fast Food",4.2,105,Yes,Yes,1200,Excellent
+1485,Falafel King - Malviya Nagar,Jaipur,Malviya Nagar,"Bakery, North Indian",3.9,193,Yes,No,800,Good
+1486,South Spice - Bandra,Mumbai,Bandra,"Cafe, BBQ",4.1,828,Yes,No,500,Excellent
+1487,South Spice - Vaishali Nagar,Jaipur,Vaishali Nagar,"Mughlai, Continental, Chinese",4.3,72,Yes,Yes,400,Excellent
+1488,Dim Sum Den - Tonk Road,Jaipur,Tonk Road,South Indian,2.6,91,No,No,500,Average
+1489,Tandoori Nights - Anna Nagar,Chennai,Anna Nagar,"Italian, Cafe, Mughlai",3.9,15,No,No,500,Good
+1490,Cheesecake Factory Lite - Dwarka,Delhi,Dwarka,"Bakery, South Indian, BBQ",3.7,272,No,No,300,Good
+1491,Pizza Bella - Malviya Nagar,Jaipur,Malviya Nagar,Not Specified,3.3,442,Yes,Yes,2000,Good
+1492,Sweet Tooth - Gachibowli,Hyderabad,Gachibowli,"Bakery, Fast Food, Street Food",2.8,23,Yes,Yes,1200,Average
+1493,The Coffee House - Velachery,Chennai,Velachery,"Fast Food, Thai, Bakery",4.2,205,Yes,Yes,500,Excellent
+1494,The Bread Basket - Powai,Mumbai,Powai,"Japanese, Mexican, Cafe",4.2,171,No,Yes,200,Excellent
+1495,Sushi Zen - Jayanagar,Bangalore,Jayanagar,"Thai, BBQ, Continental",3.1,512,Yes,No,2000,Good
+1496,Pizza Bella - Viman Nagar,Pune,Viman Nagar,"Italian, Bakery",4.4,355,Yes,No,300,Excellent
+1497,Pancake Paradise - Park Street,Kolkata,Park Street,"Street Food, Mughlai, Desserts",3.2,267,Yes,No,1200,Good
+1498,Spice Garden - Jayanagar,Bangalore,Jayanagar,"Thai, North Indian, Cafe",3.4,28,No,No,1500,Good
+1499,Momo Magic - Koramangala,Bangalore,Koramangala,Not Specified,4.7,44,No,No,1500,Excellent
+1500,BBQ Pit Stop - Howrah,Kolkata,Howrah,"Japanese, Italian, Mexican",4.8,177,No,No,600,Excellent
+1068,Punjabi Dhaba - Kothrud,Pune,Kothrud,"Thai, North Indian, Japanese",4.8,117,No,No,200,Excellent
